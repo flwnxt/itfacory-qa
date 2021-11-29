@@ -1,1 +1,1 @@
-# itfacory-qa
+# itfactory-automation
